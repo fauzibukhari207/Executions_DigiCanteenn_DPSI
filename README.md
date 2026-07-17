@@ -74,7 +74,7 @@ digicanteen-app-2.vercel.app
 
 ## URL Repository GitHub
 
-https://github.com/fauzibukhari207/Executions_DigiCanteenn_DPSI/edit/main/README.md
+https://github.com/fauzibukhari207/Executions_DigiCanteenn_DPSI
 
 ## Dokumentasi Lengkap
 
