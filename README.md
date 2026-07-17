@@ -70,11 +70,11 @@ Database sesungguhnya (PostgreSQL) dikelola sebagai layanan terkelola oleh Supab
 
 ## URL Aplikasi yang Telah Di-deploy
 
-*(isi dengan URL deployment, mis. Vercel, setelah aplikasi di-deploy)*
+digicanteen-app-2.vercel.app
 
 ## URL Repository GitHub
 
-*(isi dengan tautan repository GitHub tim)*
+https://github.com/fauzibukhari207/Executions_DigiCanteenn_DPSI/edit/main/README.md
 
 ## Dokumentasi Lengkap
 
